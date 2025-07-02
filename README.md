@@ -1,6 +1,6 @@
 # FHE Voting Demo
 
-This is a basic project setup for an FHE-based voting demo using Zama's `tfhe-rs`.
+This is a basic project setup for an FHE-based voting demo using Zama's `tfhe-rs`..
 
 ## Project Goal
 To build a basic encrypted voting system using homomorphic encryption techniques that allows users to cast votes privately and securely.
