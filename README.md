@@ -6,4 +6,4 @@ This is a basic project setup for an FHE-based voting demo using Zama's `tfhe-rs
 To build a basic encrypted voting system using homomorphic encryption techniques that allows users to cast votes privately and securely.
 
 ## Getting Started
-This repository is a placeholder for learning and contributing to Zama's FHE ecosystem..
+This repository is a placeholder for learning and contributing to Zama's FHE ecosystem.
