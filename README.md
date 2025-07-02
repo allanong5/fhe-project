@@ -1,5 +1,9 @@
-# fhe-project
 # FHE Voting Demo
 
-This is a simple practice repo to explore encrypted voting using the `fhEVM` from Zama.  
-More updates coming soon.
+This is a basic project setup for an FHE-based voting demo using Zama's `tfhe-rs`.
+
+## Project Goal
+To build a basic encrypted voting system using homomorphic encryption techniques that allows users to cast votes privately and securely.
+
+## Getting Started
+This repository is a placeholder for learning and contributing to Zama's FHE ecosystem.

@@ -1,0 +1,2 @@
+Learning Zama FHE.
+Plan to integrate FHE with smart contract-based voting.
