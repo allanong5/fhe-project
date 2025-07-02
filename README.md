@@ -8,3 +8,17 @@ To build a basic encrypted voting system using homomorphic encryption techniques
 ## Getting Started
 This repository is a placeholder for learning and contributing to Zama's FHE ecosystem.
 
+# Test 1
+This is a test commit.
+
+# Test 2
+Another test commit.
+
+# Test 3
+Small edit.
+
+# Test 4
+Minor change.
+
+# Test 5
+Update line.
